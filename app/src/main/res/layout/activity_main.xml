@@ -10,7 +10,7 @@
         android:id="@+id/textView"
         android:layout_width="86dp"
         android:layout_height="32dp"
-        android:text="Calculator"
+        android:text="Calculator!"
         tools:layout_editor_absoluteX="150dp"
         tools:layout_editor_absoluteY="74dp" />
 
